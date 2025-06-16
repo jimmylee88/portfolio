@@ -5,7 +5,7 @@
 
 ### GitHub Pages link:
 
-https://jimmylee88.github.io/week1-challenge/
+https://jimmylee88.github.io/portfolio/ 
 
 ### Intro
 
