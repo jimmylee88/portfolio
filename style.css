@@ -126,16 +126,18 @@ article img {
     margin-top: 16px;
 }
 
-label {
-    font-family: 'Poppins', Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    max-width: 700px;
-}
+
 
 /* this is the form I was working on for the exercise in w2 and I got a bit carried away */
 form {
     text-align: left;
     margin-left: 24px;
+}
+
+label {
+    font-family: 'Poppins', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    max-width: 700px;
 }
 
 button {
